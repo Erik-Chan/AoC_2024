@@ -6,11 +6,7 @@ Welcome to my Advent of Code 2024 repository! This project contains my solutions
 
 - [About Advent of Code](#about-advent-of-code)
 - [Project Structure](#project-structure)
-- [How to Run](#how-to-run)
 - [Daily Solutions](#daily-solutions)
-- [Contribution](#contribution)
-- [License](#license)
-- [Contact](#contact)
 
 ## About Advent of Code
 
@@ -41,5 +37,6 @@ advent_of_code_2024/
 │   ├── README.md
 │   └── ...
 ```
+## Daily Solutions
 - [Day 1](https://github.com/Erik-Chan/AoC_2024/blob/main/AoC_Day1/README.md)
 - [Day 2](https://github.com/Erik-Chan/AoC_2024/blob/main/AoC_Day2/README.md)
